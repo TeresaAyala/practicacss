@@ -44,7 +44,7 @@ function App() {
         </button>
         <input type="text" style={{backgroundColor:"red", color:"white"}} placeholder="Type something..." />
         <h1 style={myStyle}>Hello Style!</h1>
-        <h2 style={myStyle}>Elena Ayala</h2>
+        <h2 style={myStyle}>Teresa Ayala</h2>
         <h3 className="miestilo">Hello Style from CSS file!</h3>
          <label>Soy un label</label>
           <h1 className={styles.bigred}>Hello Car!</h1>
